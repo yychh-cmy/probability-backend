@@ -1,0 +1,63 @@
+{
+  "202318080306": {
+    "name": "韩义铜",
+    "student_id": "202318080306",
+    "login_time": "2026-05-12T19:50:52.505666",
+    "chapters": {
+      "chapter1": {
+        "start_time": "2026-05-13T06:39:25.026Z",
+        "end_time": "2026-05-13T06:39:46.409Z",
+        "duration_seconds": 21.383,
+        "status": "completed"
+      },
+      "chapter8": {
+        "start_time": "2026-05-13T06:40:15.970Z",
+        "end_time": "2026-05-13T06:40:16.244Z",
+        "duration_seconds": 0.274,
+        "status": "completed"
+      },
+      "chapter9": {
+        "start_time": "2026-05-13T06:48:21.778Z",
+        "end_time": null,
+        "duration_seconds": null,
+        "status": "learning"
+      },
+      "chapter6": {
+        "start_time": "2026-05-13T06:40:18.462Z",
+        "end_time": "2026-05-13T06:40:20.116Z",
+        "duration_seconds": 1.654,
+        "status": "completed"
+      },
+      "chapter2": {
+        "start_time": "2026-05-13T06:38:26.742Z",
+        "end_time": "2026-05-13T06:38:27.167Z",
+        "duration_seconds": 0.425,
+        "status": "completed"
+      },
+      "chapter3": {
+        "start_time": "2026-05-13T06:20:59.596Z",
+        "end_time": "2026-05-13T06:21:01.004Z",
+        "duration_seconds": 1.408,
+        "status": "completed"
+      },
+      "chapter7": {
+        "start_time": "2026-05-13T06:40:16.245Z",
+        "end_time": "2026-05-13T06:40:18.461Z",
+        "duration_seconds": 2.216,
+        "status": "completed"
+      },
+      "chapter4": {
+        "start_time": "2026-05-13T06:39:46.410Z",
+        "end_time": "2026-05-13T06:39:47.360Z",
+        "duration_seconds": 0.95,
+        "status": "completed"
+      },
+      "chapter5": {
+        "start_time": "2026-05-13T06:40:20.117Z",
+        "end_time": "2026-05-13T06:40:39.328Z",
+        "duration_seconds": 19.211,
+        "status": "completed"
+      }
+    }
+  }
+}
